@@ -1,0 +1,16 @@
+{
+  "name": "xntbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "author": "Stoyan Lazarov",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "google": "^2.1.0",
+    "spotify-web-api-node": "^2.3.6"
+  }
+}
